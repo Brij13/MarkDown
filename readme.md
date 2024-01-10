@@ -103,7 +103,7 @@ This is variable's [value][variable]
 
 ---
 
-My name is `Brijesh Mandaliya`
+Small `Code Block`
 
 ---
 
@@ -124,7 +124,7 @@ My name is `Brijesh Mandaliya`
 
 ```php
 <?php
-echo "My first PHP script!";
+echo "This is PHP code!";
 ?>
 ```
 
